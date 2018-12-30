@@ -1,13 +1,14 @@
 class: center, middle    
 
-# Software Projektmanagement  
+# Projektorganisation und Management
 
----
-## Gruppenmitglieder
+angefertigt von:  
+Richard Leikam  
+André Grellmann  
+Nick Friedrich  
+Jakob Tissen  
 
-* Richard Leikam
-* André Grellmann
-* Nick Friedrich
-* Jakob Tissen
-* Kevin Gerzen
-* Lennard Kuhnke
+<div>
+betreut von:<br>
+Prof. Dr. rer. nat. Jörg Brunsmann
+</div>

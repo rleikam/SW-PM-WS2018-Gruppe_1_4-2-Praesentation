@@ -1,6 +1,7 @@
-class: center, middle
+class: center, middle    
 
-# Software Projektmanagement
+# Software Projektmanagement  
+
 ---
 ## Gruppenmitglieder
 

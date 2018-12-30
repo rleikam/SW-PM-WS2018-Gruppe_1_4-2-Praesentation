@@ -1,3 +1,3 @@
-# Headline
+# Dokumentation
 
-> An awesome project.
+Hier werden sämtliche Projektmanagement-Dokumente angelegt, wie die How-To's oder weitere Dokumente.

@@ -37,7 +37,45 @@
 # Projektlebenszyklus
 
 * Phasen legen Schwerpunkte auf die auszuführendene Tätigkeiten fest
-* Phasen werden in Aufgaben, Aktivitäten und Tätigkeiten gegliedert
 * Ergebnisse einer Tätigkeit heißen **Artefakte**
 
 <img style="width:100%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png">
+
+---
+# Projektlebenszyklus - Projektentstehung
+
+--
+* zusammentragen von Projektideen durch
+	* Eigenhand
+	* den Bedarf von Kunden
+	* aktuellen Probleme
+
+--
+* Analyse und Beurteilung der Ideen mit Beachtung auf
+	* Machbarkeit
+	* Risiken
+	* Wirtschaftlichkeit
+
+--
+* Erstellen einer **Projektskizze**
+
+---
+
+# Projektlebenszyklus - Projektentstehung
+
+* Projektskizze dient als **Entscheidungsgrundlage**
+
+--
+* eine erste Prüfung der Skizze entscheidet die Weiterverfolgung der Projektideen
+
+--
+* bei Erfolg muss neben den Aspekten in der Analyse nun auch folgendes berücksichtigt und ausgearbeitet werden
+	* Kosten
+	* Aufwand
+	* Herausforderungen
+
+--
+* dies wird getan bis ein **Projektauftrag** erfolgen kann
+
+--
+* nach dem Projektauftrag erfolgt die **Projektvereinbarung**

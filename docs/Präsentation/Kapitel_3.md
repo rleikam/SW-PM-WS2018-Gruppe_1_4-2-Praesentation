@@ -91,3 +91,39 @@
 
 --
 * nach dem Projektauftrag erfolgt die **Projektvereinbarung**
+
+---
+# Projektlebenszyklus - Projektdefinition
+
+--
+* Ausgestaltung des Projektes
+
+--
+* beginnt mit dem **Set-Up**
+	* Strukturierung des Projektes
+	* Bereitstellen der Projektinfrastruktur
+
+--
+* enthält die **Projektplanung**, darunter fallen
+	* Meilensteinpläne
+	* Arbeits- und Zeitpläne
+	* Ressourcenpläne
+	* weitere Pläne
+
+--
+* Projektpläne dienen als **Grundlage der Projektdurchführung**
+
+---
+# Projektlebenszyklus - Projektdefinition
+
+--
+* Bildung des Projektteams mit den Projektrollen und den Zuständigkeiten
+
+--
+* Bildung von Verfahren für das Projektmanagement und die Qualitätssicherung
+
+--
+* Verfahren für Qualitätssicherung ergibt das **QS-Handbuch**
+
+--
+* am Ende entsteht das Projekthandbuch, dass die Regeln für die Beteiligten des Projektes wiedergibt

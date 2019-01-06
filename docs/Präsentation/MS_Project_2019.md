@@ -4,10 +4,10 @@
 
 # Projekte
 
-+ Große Auswahl an Templates
-+ Frei kofigurierbare Templates
++ große Auswahl an Templates
++ frei konfigurierbare Templates
 + Projekte verschachtelbar
-+ Ressourcen projektübergreifend nutzbbar
++ Ressourcen projektübergreifend nutzbar
 
 ---
 
@@ -25,8 +25,8 @@
 # Ressource
 
 + kann vom Typ: Arbeit, Kosten oder Material sein
-+ detailierte Terminplannung möglich
-+ detailierte Kostenzuweisung möglich
++ detaillierte Terminplanung möglich
++ detaillierte Kostenzuweisung möglich
 + können exportiert und importiert werden.
 
 ---
@@ -41,7 +41,7 @@
 + frei konfigurierbare Berichte
 + individualisierbar
 
-+ übersichtliche Ansichten verfügbar, frei kofigurierbar
++ übersichtliche Ansichten verfügbar, frei konfigurierbar
 
 ---
 
@@ -51,5 +51,3 @@
 + MS Produkte werden unterstützt
 + wiedererkennbares Design
 + für große bis sehr große Projekte geeignet.
-
----

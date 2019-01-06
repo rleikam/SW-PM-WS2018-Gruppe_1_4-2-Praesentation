@@ -10,7 +10,7 @@
 + gründliches Berichtswesen für Entscheidungsgrundlagen  
 
 
-+ Motivierende Arbeitsatmospäre, Kommunikation, Balance
++ Motivierende Arbeitsatmosphäre, Kommunikation, Balance
 + Teamgefühl, Rituale, Transparenz
 
 ---
@@ -20,7 +20,7 @@
 + Leitungsausschuss bewertet Projektstatus and Entscheidungspunkten
 * Freigabe
 * Freigabe mit Auflagen
-* Keine Frigabe
+* Keine Freigabe
 * Abbruch
 * Vorteil: Projektleiter erhält Unterstützung
 
@@ -42,9 +42,9 @@
 
 ---
 
-# Kontrolle - Artefaktfortschrittsgrad
+# Kontrolle - Artefakt-Fortschrittsgrad
 
-+ Modelierung und Auswertung über Zustandsautomaten
++ Modellierung und Auswertung über Zustandsautomaten
 + Beispiel: Burn Down Chart
 
 
@@ -58,7 +58,7 @@
 
 # Planung - Changemanagement
 
-+ Antwort auf variable Rahmenbedingunen
++ Antwort auf variable Rahmenbedingungen
 + Kunde ändert Bedingungen
 + Änderungen innerhalb des Projekts.
 + Auswirkungen von Änderungen auf Mitarbeiter und des Systems
@@ -67,11 +67,11 @@
 
 # Kontrolle - Steuerung
 
-+ Regelmässiges Anfertigen von Projektstatusberichten
++ Regelmäßiges Anfertigen von Projektstatusberichten
 + Auswertung und Bewertung
 
 + Qualitätssicherung, Fehlermanagement
-+ Dokuentation und Behandlung von Fehlern
++ Dokumentation und Behandlung von Fehlern
 + "Aus Fehlern lernen"
 
 

@@ -145,3 +145,18 @@
 
 --
 * **Systementwicklung** befasst sich mit dem Entwickeln der Software
+
+---
+# Projektlebenszyklus - Projektabschluss
+
+--
+* **Vorbereitung** des Projektabschlusses
+
+--
+* **Abnahme** der Projektergebnisse
+
+--
+* **Wissenssicherung** des Projektes
+
+--
+* **Auflösen** der Projektinfrastruktur

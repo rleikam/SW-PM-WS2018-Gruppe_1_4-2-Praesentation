@@ -1,6 +1,6 @@
 # Projektdurchführung
 
-- <img style="width:100% src=" https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/projektregelkreis.png">
+- <img style="width:100%" src=" https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/projektregelkreis.png">
 
 ---
 
@@ -32,7 +32,7 @@
 
 + Soll- Ist- Bewertung von Kennzahlen
 
-<img style="width:100% src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
+<img style="width:100%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
 
 ---
 
@@ -91,4 +91,4 @@
 
 # Projektdurchführung
 
-- <img style="width:100% src=" https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/projektregelkreis.png">
+- <img style="width:100%" src=" https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/projektregelkreis.png">

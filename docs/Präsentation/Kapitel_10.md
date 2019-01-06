@@ -39,3 +39,28 @@
 
 ???
 **Kundensicht** - Termintreue, Kosteneinhaltung
+---
+# Metriken - Software und Softwareprozesse
+
+--
+* Auswahl der Metriken abhängig von Software und Prozessen
+
+???
+**Softwareaspekte** - Umfang, Leistung, Komplexität, Effizienz  
+**Prozessaspekte** - Produktivität, Effektivität, Kommunikationsintensität
+--
+* Auswahl einfacher Metriken
+
+???
+**Auswahl** - Bestimmte Aspekte schwierig zu messen, daher Auswahl aus einfachen Metriken
+--
+* Metrik LOC (Lines of Code)
+
+--
+	* Messen der Anzahl von Codezeilen
+
+???
+**Messung** - durch verschiedene Versionen von Programmiersprachen oder Programmkonstrukte, wie Methoden
+**Anzweifelung** - Probleme können auch mit einer anderen Programmzeilenlänge gelöst werden
+--
+	* Bestimmung der Produktivität bei der Softwareentwicklung

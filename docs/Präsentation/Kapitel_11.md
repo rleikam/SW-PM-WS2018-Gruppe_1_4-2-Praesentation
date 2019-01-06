@@ -2,7 +2,7 @@
 
 --
 
-### KVP
+### KVP(Kontinuierlicher Verbesserungs Prozess)
 
 --
 
@@ -32,7 +32,7 @@ In einigen fällen müssen auch in diesem Schritt Schulungen oder ähnliches fü
 Nach dem Abschluss einen **Zyklus** kann ein neuer Angefangen werden. Je nach Firma können mehrere **Zyklen** parallel ausgeführt werden.
 ---
 
-###CMMI
+# Reifegradmodelle und Prozessverbesserung - CMMI
 
 --
 
@@ -66,7 +66,7 @@ Das **CMMI **(Capability Maturity Model Integration) zielt darauf ab Schwächen 
 untersucht werden auf Schwächen und auch Verbesserungsmöglichkeiten. **CMMI** gruppierte Aspekte zu Prozessgebieten die eine Sammlung ähnlicher Prozesse aus einem Thema oder Bereich sind.
 ---
 
-### CMMI-Fähigkeitsgrad
+# Reifegradmodelle und Prozessverbesserung - CMMI-Fähigkeitsgrad
 
 --
 
@@ -90,7 +90,7 @@ untersucht werden auf Schwächen und auch Verbesserungsmöglichkeiten. **CMMI** 
 
 ---
 
-###CMMI-Reifegrad
+# Reifegradmodelle und Prozessverbesserung - CMMI-Reifegrad
 
 --
 Mithilfe von 5 **Reifengraden** wird ein Unternehmen bewertet:
@@ -121,7 +121,7 @@ Um die Reife des Unternehmens zu Prüfen gibt es **SCAMPI** (*Standard CMMI Appr
 ---
 
 
-### Spice
+# Reifegradmodelle und Prozessverbesserung - Spice
 
 --
 

@@ -53,29 +53,44 @@
 # Vorgehensmodelle - Agile Methoden
 
 --
-**Agilen Manifest**
-
+### Agilen Manifest
 --
 
 * Individuals and interactions over processes and tools
-* Working software over comprehensive documentation
-* Customer collaboration over contract negotiation
-* Responding to change over following a plan
 
 --
+
+* Working software over comprehensive documentation
+
+--
+
+* Customer collaboration over contract negotiation
+
+--
+
+* Responding to change over following a plan
+
+---
+
+# Vorgehensmodelle - Agile Methoden
+
 
 * **Refactoring:** Anpassung des Codes um unnötige Teile zu entfernen oder um Übersichtlichkeit zu Verbessern.
 
 --
+
 * **Pair Programming:** Ein Programm wird im Paar erstellt ein Programmierer programmiert der andere reviewt den Code.
 
 --
+
 * **Test-driven Development**: Die Entwicklung orientiert sich and zuvor erstellte Tests und Ziel ist es nur diese Tests ohne Extras zu bestehen.
 
 --
+
 * **Continuous Integration:** Ziel ist es kontinuierliche weiterzuarbeiten und in kurzen abständen den neuen Teil zu Integrieren und mit automatisierten Tests zu überprüfen.
 
 --
+
 * **Planning Game:** Ideen und Voraussetzungen werden Von Nutzern and die Entwickler geschickt die dazu dann schätzen ob es umsetzbar ist und ob es sich lohnt es überhaupt umzusetzen.
 
 ---

@@ -138,7 +138,7 @@ fachliche Abnahme ebenfalls abzulehnen, berücksichtigung von Stakeholder
 ???
 **Auflösung** - Entlastung des Projektleiters vom Projekt
 ---
-#Projektabschluss - Wissenssicherung
+# Projektabschluss - Wissenssicherung
 
 --
 * Sicherung des Wissens und Erfahrungen des Projektes
@@ -157,3 +157,22 @@ in zukünftigen Projekten
 
 ???
 **Workshop** - verstärkt das gegenseitige Lernen von Mitarbeitern und Führungskräften durch Feedback
+---
+# Projektabschluss - Projektabschlussbericht
+
+--
+* Definition des Projektabschlusses
+
+--
+* Vorgabe normalerweise vom Vorgehensmodell
+
+--
+* Gliederung beim V-Modell XT
+	* Managementübersicht
+	* Ausgangslage und Ziel
+	* Projektergebnisse
+	* Qualitätsbewertungen
+	* Projektverlauf
+	
+???
+**Gliederung** - ähnliche Gliederungen finden sich in anderen Vorgehensmodellen wieder

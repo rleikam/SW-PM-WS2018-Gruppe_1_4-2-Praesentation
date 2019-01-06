@@ -160,3 +160,18 @@
 
 --
 * **Auflösen** der Projektinfrastruktur
+
+---
+# Softwarelebenszyklus
+
+--
+* Phasen zur Erstellung einer Software
+
+--
+* Beschreibung von Tätigkeiten und Artefakten
+
+--
+* Entwicklungsprozess gibt Rollen und Abläufe vor
+
+--
+* wichtige Faktoren sind **Ressourcen** und **Vorgaben**

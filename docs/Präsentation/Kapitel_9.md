@@ -119,3 +119,21 @@ fachliche Abnahme ebenfalls abzulehnen, berücksichtigung von Stakeholder
 **Beispiel: Uneinigkeiten** - Wegen einer nicht abgenommenen Abnahme
 --
 	* Maßnahme wäre der Weg zum Gericht
+	
+---
+# Projektabschluss - Aufräumen
+
+--
+* Planung und Abschlusskalkulation der Abrechnung
+
+--
+* Gegenüberstellung der eigentlichen Projektdaten zu den geplanten Daten
+
+???
+**Projektdaten** - Projektdauer, Aufwand, Kosten etc.  
+**Gegenüberstellung** - Herausfinden wie Präzise die eigentliche Planung war und ob das Projekt den erwarteten Wert erreicht hat
+--
+* Auflösen des Projektteams und Frei- und Rückgabe der Projektinfrastruktur
+
+???
+**Auflösung** - Entlastung des Projektleiters vom Projekt

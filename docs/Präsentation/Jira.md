@@ -31,3 +31,21 @@
 
 ???
 **Next-Gen-Projekte** - einfacher konfigurierbar und für kleine Teams einsetzbar
+---
+# Jira - Issues
+
+--
+* stellen verschiedene Vorgänge dar
+
+???
+**Beispiel: Vorgänge** - Aufgabe, Bugfix, Feature etc.
+--
+* werden mit einem Issue Typ klassifiziert
+
+???
+**Standardmäßige Issues** - Task, Story oder Bug
+--
+* verschiedene Felder für einen Issue Typ
+
+???
+**Felder** - beschreiben die Merkmale eines Issue Typs (Daten)

@@ -137,3 +137,23 @@ fachliche Abnahme ebenfalls abzulehnen, berücksichtigung von Stakeholder
 
 ???
 **Auflösung** - Entlastung des Projektleiters vom Projekt
+---
+#Projektabschluss - Wissenssicherung
+
+--
+* Sicherung des Wissens und Erfahrungen des Projektes
+
+???
+**Sicherung** - Erfahrungen mit angewandten Techniken und Methoden, Sicherung für zukünftige Projekte, Vermeidung von Fehlern
+in zukünftigen Projekten
+--
+* Methodenpool: Best Practices für weitere Projekte
+
+--
+* persönliche Erfahrung von Mitarbeitern sichern
+
+--
+* Workshop zum anlegen für ein **Lessons Learned**
+
+???
+**Workshop** - verstärkt das gegenseitige Lernen von Mitarbeitern und Führungskräften durch Feedback

@@ -18,12 +18,10 @@
 # Steuerung - Projektfortschrittsentscheidung
 
 + Leitungsausschuss bewertet Projektstatus and Entscheidungspunkten
-
 * Freigabe
 * Freigabe mit Auflagen
 * Keine Frigabe
 * Abbruch
-
 * Vorteil: Projektleiter erhält Unterstützung
 
 ---
@@ -32,7 +30,7 @@
 
 + Soll- Ist- Bewertung von Kennzahlen
 
-<img style="width:100%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
+<img style="width:60%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
 
 ---
 

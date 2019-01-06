@@ -31,15 +31,15 @@
 
 --
 
-- **Demonstratoren**: Wird in den frühen **Phasen** benutzt und zeigen den ungefähren weg des Projekts an.
+* **Demonstratoren**: Wird in den frühen **Phasen** benutzt und zeigen den ungefähren weg des Projekts an.
 
 --
 
-- **Labormuster**: Ist dazu da technische Fragestellungen beantworten zu können.
+* **Labormuster**: Ist dazu da technische Fragestellungen beantworten zu können.
 
 --
 
-- **Pilotsysteme**: Kann bereits vom Nutzern getestet und bewertet werden und geht somit in Richtung Ziel.
+* **Pilotsysteme**: Kann bereits vom Nutzern getestet und bewertet werden und geht somit in Richtung Ziel.
 
 --
 
@@ -47,11 +47,11 @@
 
 --
 
-- **Horizontal**: Demonstriert einen Ausschnitt des Endprogramms ohne auf andere **Ebenen** zu greifen(z.B Funktionale Eigenschaften vorerst ignorieren und die Nutzeroberfläche demonstrieren).
+* **Horizontal**: Demonstriert einen Ausschnitt des Endprogramms ohne auf andere **Ebenen** zu greifen(z.B Funktionale Eigenschaften vorerst ignorieren und die Nutzeroberfläche demonstrieren).
 
 --
 
-- **Vertikal**: Nimmt einen Ausschnitt aus allen ebenen und deren Interaktion zum demonstrieren und kann somit auch Funktionalität in Kombination demonstrieren.
+* **Vertikal**: Nimmt einen Ausschnitt aus allen ebenen und deren Interaktion zum demonstrieren und kann somit auch Funktionalität in Kombination demonstrieren.
 
 --
 
@@ -64,53 +64,51 @@
 
 --
 
-- Individuals and interactions over processes and tools
-- Working software over comprehensive documentation
-- Customer collaboration over contract negotiation
-- Responding to change over following a plan
+* Individuals and interactions over processes and tools
+* Working software over comprehensive documentation
+* Customer collaboration over contract negotiation
+* Responding to change over following a plan
 
 --
 
-- **Refactoring:** Anpassung des Codes um unnötige Teile zu entfernen oder um Übersichtlichkeit zu Verbessern.
+* **Refactoring:** Anpassung des Codes um unnötige Teile zu entfernen oder um Übersichtlichkeit zu Verbessern.
 
 --
-- **Pair Programming:** Ein Programm wird im Paar erstellt ein Programmierer programmiert der andere reviewt den Code.
+* **Pair Programming:** Ein Programm wird im Paar erstellt ein Programmierer programmiert der andere reviewt den Code.
 
 --
-- **Test-driven Development**: Die Entwicklung orientiert sich and zuvor erstellte Tests und Ziel ist es nur diese Tests ohne Extras zu bestehen.
+* **Test-driven Development**: Die Entwicklung orientiert sich and zuvor erstellte Tests und Ziel ist es nur diese Tests ohne Extras zu bestehen.
 
 --
-- **Continuous Integration:** Ziel ist es kontinuierliche weiterzuarbeiten und in kurzen abständen den neuen Teil zu Integrieren und mit automatisierten Tests zu überprüfen.
+* **Continuous Integration:** Ziel ist es kontinuierliche weiterzuarbeiten und in kurzen abständen den neuen Teil zu Integrieren und mit automatisierten Tests zu überprüfen.
 
 --
-- **Planning Game:** Ideen und Voraussetzungen werden Von Nutzern and die Entwickler geschickt die dazu dann schätzen ob es umsetzbar ist und ob es sich lohnt es überhaupt umzusetzen.
+* **Planning Game:** Ideen und Voraussetzungen werden Von Nutzern and die Entwickler geschickt die dazu dann schätzen ob es umsetzbar ist und ob es sich lohnt es überhaupt umzusetzen.
 
 ---
 
 # Scrum
 
-- Im Backlog befinden sich alle Anforderungen
+* Im Backlog befinden sich alle Anforderungen
 
 --
 
-- Die Anforderungen aus dem Backlog landen in **Sprints**
+* Die Anforderungen aus dem Backlog landen in **Sprints**
 
 --
 
-- 30 Tage(Standard) ist ein **Sprint**
+* 30 Tage(Standard) ist ein **Sprint**
 
 --
 
-- Nach jedem **Sprint** soll eine Lauffähige Version des Programms vorhanden sein
+* Nach jedem **Sprint** soll eine Lauffähige Version des Programms vorhanden sein
 
 --
 
--Nach jedem **Sprint** wird der **Sprint** vom **Projektteam** bewertet.
+* Nach jedem **Sprint** wird der **Sprint** vom **Projektteam** bewertet.
 
---
 
 ---
-
 
 # Rational Unified Process (RUP)
 
@@ -128,51 +126,51 @@
 
 --
 
-- Inception / Lifecycle Objectives
-- Eloboration / Lifecycle Archetecture
-- Construction / Initial Operational Capability
-- Transistion / Product Release
+* Inception / Lifecycle Objectives
+* Eloboration / Lifecycle Archetecture
+* Construction / Initial Operational Capability
+* Transistion / Product Release
 
 --
 
----
-# Rational Unified Process (RUP)
+--
+### Diziplinen
 
 Die **Phasen** sind in folgende  **Disziplinen** unterteilt:
 
-- Business Modeling
+* Business Modeling
 
 --
 
-- Requirements
+* Requirements
 
 --
 
-- Analysis & Design
+* Analysis & Design
 
 --
 
-- Implementation
+* Implementation
 
 --
 
-- Test
+* Test
 
 --
 
-- Deployment
+* Deployment
 
 --
 
-- Configuration & Change Management
+* Configuration & Change Management
 
 --
 
-- Project Management
+* Project Management
 
 --
 
-- Environment
+* Environment
 
 ---
 
@@ -180,16 +178,16 @@ Die **Phasen** sind in folgende  **Disziplinen** unterteilt:
 
 Man unterteilt das V-Modell XT in vier mögliche Projekttypen:
 
-- **Systementwicklungprojekt (Auftragsgeber[AG])**
+* **Systementwicklungprojekt (Auftragsgeber[AG])**
 
 --
-- **Systementwicklungprojekt (Auftragsnehmer[AN])**
+* **Systementwicklungprojekt (Auftragsnehmer[AN])**
 
 --
-- **Systementwicklungprojekt (Eigenentwicklung[AG/AN])**
+* **Systementwicklungprojekt (Eigenentwicklung[AG/AN])**
 
 --
-- Einführung und Pflege eines organisationsspezifischen Vorgehensmodells (ORG)
+* Einführung und Pflege eines organisationsspezifischen Vorgehensmodells (ORG)
 
 ---
 

@@ -2,7 +2,7 @@
 
 --
 
--**Organisation Project Board** kann bis zu 5 verschiedenen **Respositories** beinhalten.
+* **Organisation Project Board** kann bis zu 5 verschiedenen **Respositories** beinhalten.
 
 --
 
@@ -10,22 +10,20 @@
 
 --
 
-- Templates :
+* Templates :
+	* Basic Kanban
+	
+--
+	* Automated Kanban
+	
+--
+	* Automated Kanban with Reviews
+	
+
+	* Bug Triage
+
 --
 
-	- Basic Kanban
-	
-	--
-	- Automated Kanban
-	
-	--
-	- Automated Kanban with Reviews
-	
-	--
-	- Bug Triage
-
---
-
--Karten: Issues und Notizen
+* Karten: Issues und Notizen
 
 --

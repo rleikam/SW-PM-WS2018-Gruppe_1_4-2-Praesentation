@@ -1,3 +1,4 @@
 class: center, middle
 
-# Projektdefinition
+# Projektdefinition:
+# Planen, Einrichten, Aufsetzen

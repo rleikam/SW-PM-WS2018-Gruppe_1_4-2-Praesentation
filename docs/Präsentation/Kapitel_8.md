@@ -22,8 +22,11 @@
 + Leitungsausschuss bewertet Projektstatus and Entscheidungspunkten
 
   + Freigabe
+  
   + Freigabe mit Auflagen
+  
   + Keine Freigabe
+  
   + Abbruch
 
 + Vorteil: Projektleiter erhält Unterstützung
@@ -42,7 +45,9 @@
 ### Aufwandserfassung
 
 + Ressourcenplanung
+
 + zeitlicher Aufwand und Kosten der Mitarbeiter
+
 + Aufwandskalkulation von Arbeitspaketen
 
 ---
@@ -54,8 +59,11 @@
 + Beispiel: Burn Down Chart
 
   +  Wie viele Artefakte sind im Projekt enthalten
+  
   +  Wie viele Artefakte haben welchen Zustand
+  
   +  Wie sieht die Termintreue von Artefakten aus
+  
   +  Gibt es abweichende Entwicklungen und worin liegen die Ursachen
 
 

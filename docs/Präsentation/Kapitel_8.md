@@ -7,10 +7,12 @@
 # Projektdurchführung - Kontrolle und Steuerung
 
 + Aufrechterhaltung von Projektfortschritt und Rahmenbedingungen
+
 + gründliches Berichtswesen für Entscheidungsgrundlagen  
 
 
 + Motivierende Arbeitsatmosphäre, Kommunikation, Balance
+
 + Teamgefühl, Rituale, Transparenz
 
 ---
@@ -18,23 +20,26 @@
 # Steuerung - Projektfortschrittsentscheidung
 
 + Leitungsausschuss bewertet Projektstatus and Entscheidungspunkten
-* Freigabe
-* Freigabe mit Auflagen
-* Keine Freigabe
-* Abbruch
-* Vorteil: Projektleiter erhält Unterstützung
+
+  + Freigabe
+  + Freigabe mit Auflagen
+  + Keine Freigabe
+  + Abbruch
+
++ Vorteil: Projektleiter erhält Unterstützung
 
 ---
 
 # Steuerung - Fortschrittskontrolle
 
-+ Soll- Ist- Bewertung von Kennzahlen
+### Soll- Ist- Bewertung von Kennzahlen
 
 <img style="width:60%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
 
 ---
 
-# Kontrolle - Aufwandserfassung
+# Kontrolle 
+### Aufwandserfassung
 
 + Ressourcenplanung
 + zeitlicher Aufwand und Kosten der Mitarbeiter
@@ -45,8 +50,8 @@
 # Kontrolle - Artefakt-Fortschrittsgrad
 
 + Modellierung und Auswertung über Zustandsautomaten
-+ Beispiel: Burn Down Chart
 
++ Beispiel: Burn Down Chart
 
   +  Wie viele Artefakte sind im Projekt enthalten
   +  Wie viele Artefakte haben welchen Zustand
@@ -59,8 +64,11 @@
 # Planung - Changemanagement
 
 + Antwort auf variable Rahmenbedingungen
+
 + Kunde ändert Bedingungen
+
 + Änderungen innerhalb des Projekts.
+
 + Auswirkungen von Änderungen auf Mitarbeiter und des Systems
 
 ---
@@ -68,21 +76,27 @@
 # Kontrolle - Steuerung
 
 + Regelmäßiges Anfertigen von Projektstatusberichten
+
 + Auswertung und Bewertung
 
 + Qualitätssicherung, Fehlermanagement
-+ Dokumentation und Behandlung von Fehlern
-+ "Aus Fehlern lernen"
 
++ Dokumentation und Behandlung von Fehlern
+
++ "Aus Fehlern lernen"
 
 ---
 
 # Systementwicklung
 
 + Systemanalyse und Spezifikation
+
 + Systementwurf und Architektur
+
 + Implementierung und Test
+
 + Integration und Test
+
 + Transition in die Einsatzumgebung und Abgabe
 
 ---

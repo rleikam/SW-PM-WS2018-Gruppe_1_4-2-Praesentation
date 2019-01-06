@@ -1,9 +1,4 @@
-# Vorgehensmodelle
-
----
-
-
-# Spiralmodell
+# Vorgehensmodelle - Spiralmodell
 
 1. **Analyse** : In diesem Schritt werden die Vorrausetzungen, Anforderungen, Ziele und Vorstellungen an das Projekt festgehalten.
 
@@ -21,10 +16,10 @@
 
 ---
 
-# Prototyping-Spiralmodell
+# Vorgehensmodelle - Prototyping-Spiralmodell
 
 ???
-**Prototypen** werden häufiger auch in Spiralform genutzt das heißt das im laufe der Entwicklung viele **Prototypen** entstehen. **Prototypen** können dazu benutzt werden bestimmte Funktionen zu testen und diese dann auf- oder auszubauen(evolutionäres **Prototyping**). Ebenfalls kann **Protoyping** benutzt werden um neue Optionen zu testen und zu vergleichen ob sie sich lohnen oder überhaupt realisierbar sind (experimentelles **Prototyping**).--
+**Prototypen** werden häufiger auch in Spiralform genutzt das heißt das im laufe der Entwicklung viele **Prototypen** entstehen. **Prototypen** können dazu benutzt werden bestimmte Funktionen zu testen und diese dann auf- oder auszubauen (evolutionäres **Prototyping**). Ebenfalls kann **Protoyping** benutzt werden um neue Optionen zu testen und zu vergleichen ob sie sich lohnen oder überhaupt realisierbar sind (experimentelles **Prototyping**).
 
 --
 **Prototyp** Arten:
@@ -47,17 +42,15 @@
 
 --
 
-* **Horizontal**: Demonstriert einen Ausschnitt des Endprogramms ohne auf andere **Ebenen** zu greifen(z.B Funktionale Eigenschaften vorerst ignorieren und die Nutzeroberfläche demonstrieren).
+* **Horizontal**: Demonstriert einen Ausschnitt des Endprogramms ohne auf andere **Ebenen** zu greifen (z.B Funktionale Eigenschaften vorerst ignorieren und die Nutzeroberfläche demonstrieren).
 
 --
 
 * **Vertikal**: Nimmt einen Ausschnitt aus allen ebenen und deren Interaktion zum demonstrieren und kann somit auch Funktionalität in Kombination demonstrieren.
 
---
-
 ---
 
-# Agile Methoden
+# Vorgehensmodelle - Agile Methoden
 
 --
 **Agilen Manifest**
@@ -87,7 +80,7 @@
 
 ---
 
-# Scrum
+# Vorgehensmodelle - Scrum
 
 * Im Backlog befinden sich alle Anforderungen
 
@@ -97,7 +90,7 @@
 
 --
 
-* 30 Tage(Standard) ist ein **Sprint**
+* 30 Tage (Standard) ist ein **Sprint**
 
 --
 
@@ -110,15 +103,15 @@
 
 ---
 
-# Rational Unified Process (RUP)
+# Vorgehensmodelle - RUP (Rational Unified Process)
 
 --
 
 **RUP** folgt den folgenden drei **Grundprinzipen**:
 
-- RUP ist anwendungsfallgetrieben
-- Die Architektur steht im Zentrum der Planung
-- Das Vorgehen zur Entwicklung ist inkrementell/iterativ
+* RUP ist anwendungsfallgetrieben
+* Die Architektur steht im Zentrum der Planung
+* Das Vorgehen zur Entwicklung ist inkrementell/iterativ
 
 --
 
@@ -131,10 +124,9 @@
 * Construction / Initial Operational Capability
 * Transistion / Product Release
 
---
+---
 
---
-### Diziplinen
+# Vorgehensmodelle - RUP-Diziplinen
 
 Die **Phasen** sind in folgende  **Disziplinen** unterteilt:
 
@@ -174,7 +166,7 @@ Die **Phasen** sind in folgende  **Disziplinen** unterteilt:
 
 ---
 
-# V-Modell XT
+# Vorgehensmodelle - V-Modell XT
 
 Man unterteilt das V-Modell XT in vier mögliche Projekttypen:
 
@@ -189,25 +181,22 @@ Man unterteilt das V-Modell XT in vier mögliche Projekttypen:
 --
 * Einführung und Pflege eines organisationsspezifischen Vorgehensmodells (ORG)
 
----
+--
 
-# V-Modell XT-Rollen
+### V-Modell XT-Rollen
 
 Die Rollen:
 
-- **Projektleiter** verantwortlich für Projekthandbuch,Projektplan und Risikoliste und wirkt mit an den Anforderungen
+* **Projektleiter** verantwortlich für Projekthandbuch,Projektplan und Risikoliste und wirkt mit an den Anforderungen
 
 --
-- **Anforderungsanalytiker(AG)** verantwortlich für die Anforderungen
+* **Anforderungsanalytiker (AG)** verantwortlich für die Anforderungen
 
 --
-- **QS-Verantwortlicher** wirkt mit am Projektplan
+* **QS-Verantwortlicher** wirkt mit am Projektplan
 
 --
-- **Projektmanager** wirkt mit am Projekthandbuch
-
---
-
+* **Projektmanager** wirkt mit am Projekthandbuch
 
 ---
 
@@ -215,23 +204,23 @@ Die Rollen:
 
 --
 
-- Ziel ist die Erstellung eines Vorgehensmodell für die Firma/Organisation
+* Ziel ist die Erstellung eines Vorgehensmodell für die Firma/Organisation
 
 --
 
-- Feedback aus Projekten die das Modell nutzen
+* Feedback aus Projekten die das Modell nutzen
 
 --
 
-- Durchgehender Verbesserungsprozess
+* Durchgehender Verbesserungsprozess
 
 --
 
-- Anpassung an die Firma und an Wünsche der Kunden 
+* Anpassung an die Firma und an Wünsche der Kunden 
 
 --
 
-- Hilfe durch **Prozessframeworks**
+* Hilfe durch **Prozessframeworks**
 
 
 ---

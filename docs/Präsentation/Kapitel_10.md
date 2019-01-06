@@ -64,3 +64,52 @@
 **Anzweifelung** - Probleme können auch mit einer anderen Programmzeilenlänge gelöst werden
 --
 	* Bestimmung der Produktivität bei der Softwareentwicklung
+	
+---
+# Metriken - Beispiele
+
+--
+* Produktmetriken
+
+???
+**Produktmetriken** - Produkteigenschaften, wie Umfang, Komplexität, Design, Performanz
+--
+	* Lines Of Code (LOC)
+
+--
+	* Mean Time To Failure (MTTF)
+
+???
+**MTTF** - Mittlere Lebensdauer bis Ausfall eines Produktes
+--
+	* McCabe-Metrik
+
+???
+**McCabe-Metrik** - Messung der zyklomatischen Komplexität, zur Messung der Komplexität eines Softwareteils
+--
+* Prozessmetriken
+
+???
+**Prozessmetriken** - können die Leistung und Reife von Entwicklungsprozessen beschreiben
+--
+	* Zeitbedarf für Fehlerkorrekturen
+
+--
+	* Einarbeitung von Änderungen
+
+--
+	* Prozessreife
+
+--
+* Projektmetriken
+
+???
+**Projektmetriken** - verwendet man für Soll-Ist-Analysen um Steuerungsmaßnahmen zu treffen
+--
+	* Termintreue
+
+--
+	* Kosten- und Ressourcenverbrauch
+
+--
+	* Produktivität

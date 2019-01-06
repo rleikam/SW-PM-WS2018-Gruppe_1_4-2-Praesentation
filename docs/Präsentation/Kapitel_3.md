@@ -127,3 +127,21 @@
 
 --
 * am Ende entsteht das Projekthandbuch, dass die Regeln für die Beteiligten des Projektes wiedergibt
+
+---
+# Projektlebenszyklus - Projektdurchführung
+
+--
+* Umsetzung des Projektes
+
+--
+* **Projektfortschrittskontrolle** erfasst den Arbeitsstand (Soll-Ist-Zustand)
+
+--
+* **Qualitätskontrolle- und steuerung** überwacht und steuert Qualität des Projektes
+
+--
+* **Berichtswesen**, für das Sichtbar machen des Projektstatus für die Stakeholder
+
+--
+* **Systementwicklung** befasst sich mit dem Entwickeln der Software

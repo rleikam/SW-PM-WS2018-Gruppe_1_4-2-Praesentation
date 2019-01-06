@@ -99,3 +99,24 @@
 	
 ???
 **Next-Gen-Board** - basieren auf Scrum und Kanban Boards, einfacher und flexibler
+---
+# Jira - Berichte
+
+* Verfolgung und analyse des Projektfortschritts
+
+???
+**Verfolgung** - durch Versionen, Epics, Sprints und Issues
+--
+* Auswahl der Diagramme abhängig vom Projekttyp
+
+--
+* Berichte benötigen Informationen
+
+???
+**Informationen** - bei Scrum Projekten werden Story-Points benötigt
+---
+# Jira - Burnup-Diagramm
+
+<div style="text-align: center">
+	<img style="width: 70%" src="https://confluence.atlassian.com/jirasoftwarecloud/files/777002653/867194399/1/1484024907542/burndown-chart.png">
+</div>

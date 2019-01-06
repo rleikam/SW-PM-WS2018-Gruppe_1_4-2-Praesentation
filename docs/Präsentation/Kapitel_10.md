@@ -113,3 +113,42 @@
 
 --
 	* Produktivität
+---
+# Metriken - Erfassung und Auswertung
+
+--
+* muss in Projekten untersucht werden
+
+--
+	* Bestimmung eines Messverfahren
+
+???
+**Messverfahren** - Weg zur Metrik beschreiben
+--
+	* Festlegung von ableitbaren Aussagen
+
+--
+* Ansatz Goal-Question-Metric(GQM)
+
+???
+**GQM** - Planung und Durchführung von zielorientieren Messungen
+--
+	* Ausgehend von Messzielen mit weiteren Informationen
+
+--
+	* Ableitung von Fragestellungen aus dem Ziel
+		* Weitere Verfeinerung der Fragestellungen
+		* Bildung einer hierarchischen Struktur
+
+--
+	* Unterste Ebene sind Metriken definiert
+
+--
+	* Auswertung erfolgt Bottom-Up
+
+???
+**Vorteil** - Schrittweisen Vorangehensweise, so dass nur im Sinne des Messziels Metriken definiert und gemessen werden
+---
+# Metriken - Erfassung und Auswertung
+
+<img style="width: 100%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_10_Goal-Question-Metric.png">

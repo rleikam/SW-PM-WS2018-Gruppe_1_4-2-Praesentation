@@ -175,3 +175,28 @@
 
 --
 * wichtige Faktoren sind **Ressourcen** und **Vorgaben**
+---
+# Softwarelebenszyklus - Phasen
+
+<div style="text-align: center">
+	<img style="width:70%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_3_V-Modell.png">
+</div>
+
+---
+
+# Softwarelebenszyklus - Phasen
+
+--
+* Erfassung und Verfeinerung der Anforderungen
+
+--
+* Systementwurf
+
+--
+* Implementierung, Verifikation und Test
+
+--
+* Test und Integration
+
+--
+* Erprobung und Übergabe

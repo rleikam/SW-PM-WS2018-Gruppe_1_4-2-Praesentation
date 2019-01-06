@@ -598,4 +598,225 @@
 # Projekt- und Arbeitsplanung
 
 ### Netzpläne
+--
 
+
++ Darstellung logischer Beziehungen zwischen Arbeitspaketen und zeitliche Anordnung dieser
+--
+
+
++ Zeitpunkte für die Tätigkeitsdurchführung nicht nur darstellbar sondern auch berechenbar mit dieser Technik
+
++ Basiert auf einfachem mathematischen Modell (Mengen und Funktionen)
+
++ Gut dafür geeignet früh im Projekt zeitliche Faktoren und kritische Arbeitspakete abzuschätzen
+
+---
+# Projekt- und Arbeitsplanung
+
+### Netzpläne
+
++ Grundsätzlich zwei Methoden:
+
+	+ Deterministisch: angewendet wenn alles weitesgehend vorhersehbar
+	
+	+ Probabilistisch: Arbeitspakete können ausgelassen werden, Ablauf mit Wahrscheinlichkeiten erstellt
+	
++ Unterschiedliche Methoden für deterministische (DIN 69901) z.B. Critical Path Method (CPM), Metra Potential Method (MPM)
+--
+
+
++ Darstellung durch:
+
+	+ Knotenpunkte (Ereignisse)
+	
+	+ Pfeile (Vorgänge oder Abhängigkeiten)
+
+---
+# Projekt- und Arbeitsplanung
+
+### Netzpläne
+
++ Gute Darstellung von Daten zur Parallelität und Gesamtdauer
+
++ Entwicklungsprozess gut damit optimierbar
+--
+
+
++ Erkennung kritischer Pfade
+
+	+ Vorgangsketten mit Potential zur Verzögerung des gesamten Projekts
+	
+	+ Mindestens einmal im Plan vorhanden
+	
+	+ Auch in Teilplänen möglich
+	
+	+ Besonders darauf achten
+	
+---
+# Projekt- und Arbeitsplanung
+
+### Netzpläne
+
++ Probleme:
+
+	+ Randbedingungen wie Krankheit o.ä. nicht beachtet
+	
+	+ Basieren auf "starren" und daher unrealistischen Abhängigkeiten
+	
+	+ Für mehr Dynamik müssten Vorgänge zu detailliert sein - zu viel Aufwand
+--
+
+
++ Eignet sich für grobe Planung und Darstellung dabei
+
++ Softwarewerkzeuge empfohlen
+
+---
+# Projekt- und Arbeitsplanung
+
+### Balkenpläne
+--
+
+
++ Bessere Darstellung von möglichen parallel ausführbaren Arbeitspaketen mit Berücksichtigung Ressourcenbeschränkung
+--
+
+
++ Gant-Diagramm für Darstellung geeignet
+
++ Erste Zeile Zeitleiste, Spalten Zeitabschnitte
+
++ Vorgänge und Infos dazu in folgenden Zeilen
+
++ Dauer bzw. Anfang und Ende von Vorgängen durch Balken visualisiert
+
++ Überlappungen möglich
+
+---
+# Projekt- und Arbeitsplanung
+
+### Balkenpläne
+
++ Abhängigkeiten zwischen Vorgängen in vernetzten Diagrammen
+
++ Darstellung mit Pfeilen
+
++ Können auch im Nachhinein hinzugefügt werden
+--
+
+
++ Varianten: personen- und aufgabenbezogen
+
++ Pro Zeile z.B. Aufgaben mit Angaben zu Bearbeiter darstellen
+
++ Gute Übersicht über Workload einzelner Personen
+
+---
+# Projekt- und Arbeitsplanung
+
+### Balkenpläne
+
++ Unterschiedliche Arten von Beziehungen und Abhängigkeiten: Anordnungsbeziehungen
+--
+
+
+	+ Normalfolge (Ende-Anfang-Beziehung): Erste Aufgabe abschließen um zweite zu beginnen, keine Überlappung möglich
+	
+	+ Anfangsfolge (Anfang-Anfang-Beziehung): Erste Aufgabe anfangen um zweite zu beginnen, Überlappung möglich
+	
+	+ Endfolge (Ende-Ende-Beziehung): Erste Aufgabe abschließen um zweite zu beenden, Überlappung möglich
+	
+	+ Sprungfolge (Anfang-Ende-Beziehung): Erste Aufgabe anfangen um zweite zu beenden, keine Überlappung möglich
+--
+
+
++ Meist wird die Ende-Anfang-Beziehung beachtet und später andere hinzugefügt
+
+---
+# Projekt- und Arbeitsplanung
+
+## Philosophien
+--
+
+
++ Am Anfang der Projektplanung Philosophie festlegen
+
++ Grundlage von Aufbau und Planung
+--
+
+
++ Hier vorgestellt:
+
+	+ Meilenstein-Orientierte Planung
+	
+	+ Fast Tracking
+	
+	+ Time Boxing
+	
+	+ Critical Chain
+	
+---
+# Projekt- und Arbeitsplanung
+
+### Meilenstein-Orientierte Planung
+
++ Meilensteine Basis des Projektplans
+
++ Zuerst Meilensteinliste erstellen
+
++ Projektpläne davon ableiten und mit weiteren Informationen füllen
+
++ Bei Problemen werden Meilenstein meist vor und zurück verschoben
+
+---
+# Projekt- und Arbeitsplanung
+
+### Fast Tracking
+
++ Meilensteinorientiert
+
++ Legt Fokus auf massiv paralleles Arbeiten, daher besonders für produktorientierte Vorgehensweisen geeignet
+
++ Entscheidungspunkte sind Zeitpunkte für Fertigstellung von Vorgängen
+
++ Freie Planung von Aufgaben zwischen Entscheidungspunkten
+
++ Abhängigkeitsstrukturen Randbedingung für Zuweisungen
+
+---
+# Projekt- und Arbeitsplanung
+
+### Time Boxing
+
++ Nicht meilensteinorientiert
+
++ Regelmäßige, festgelegte Zeitpunkte (alle 4 - 6 Wochen) an denen Projektstand Überprüft wird
+
++ Nicht fertiggestellte Vorgänge werden in den nächsten Abschnitt verschoben
+
++ Agile Methoden basieren auf diesem Vorgehen
+
++ Ist universell im Projekt einsetzbar (z.B. auch Management)
+
+---
+# Projekt- und Arbeitsplanung
+
+### Critical Chain
+
++ Erweiternde Philosophie
+
++ Kerngedanke: Vermeidung von Multitasking
+
++ Parallele Arbeiten werden reduziert
+
++ Fokussieren auf das Wesentliche, Produktivität dadurch erhöhen
+
++ Eine wesentliche Säule für Kanban
+
+---
+class: center, middle
+
+## Wichtig für die Projektplanung
+
+Es sollte immer auf den __Sinn und Zweck__ des Projektplans geachtet werden, da dieser sich sonst unter Umständen __negativ__ auf das Projekt auswirken könnte.

@@ -1,4 +1,4 @@
-# Kapitel 12 - Übersicht Werkzeuge
+# Übersicht Werkzeuge
 
 --
 + Schon lange eingesetzt in Software Engineering
@@ -12,7 +12,7 @@
 + Viele mittlerweile in IDEs zusammengefasst
 
 ---
-# Kapitel 12 - Werkzeuggruppen
+# Werkzeuggruppen
 
 CASE-Tools werden in diese Gruppen eingeteilt:
 
@@ -26,7 +26,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 + Werkzeuge für Teamarbeit und Kollaboration
 
 ---
-# Kapitel 12 - Projektmanagementwerkzeuge
+# Projektmanagementwerkzeuge
 
 + Helfen bei Übersicht über Daten:
 
@@ -38,7 +38,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 	+ Trends von Maßzahlen
 	
 ---
-# Kapitel 12 - Projektmanagementwerkzeuge
+# Projektmanagementwerkzeuge
 
 + Faktoren für Wahl:
 
@@ -54,7 +54,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 + Auch __Excel__ kann ein angemessenes Projektmanagementwerkzeug sein
 
 ---
-# Kapitel 12 - Repositories
+# Repositories
 
 + Grundlegende Komponenten von (verteilten) Projekten
 
@@ -68,7 +68,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 	+ Repo-Server
 	
 ---
-# Kapitel 12 - Repositories
+# Repositories
 
 + Regeln für:
 
@@ -81,7 +81,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 		+ Empfohlen: Ablage nach Auftraggeber in Standardstruktur
 		
 ---
-# Kapitel 12 - Repositories
+# Repositories
 
 + Regeln für:
 
@@ -90,7 +90,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 		+ Welche Personen(gruppen) dürfen was im Repo machen
 	
 ---
-# Kapitel 12 - Repositories
+# Repositories
 
 + Regeln für:
 
@@ -107,7 +107,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 		+ Vorgabe für Check-In-Kommentare
 	
 ---
-# Kapitel 12 - Repositories
+# Repositories
 
 + Regeln für:
 
@@ -120,7 +120,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 		+ Räumen Repos regelmäßig auf - archivieren altes und helfen beim Aufbau von Strukturen
 		
 ---
-# Kapitel 12 - Entwicklungswerkzeuge
+# Entwicklungswerkzeuge
 
 + Viele vorkonfigurierte Systeme für Implementierungsumgebungen
 
@@ -144,7 +144,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 + Projektteam sollte für Benutzung regelmäßig geschult werden
 
 ---
-# Kapitel 12 - Werkzeuge für Teamarbeit und Kollaboration
+# Werkzeuge für Teamarbeit und Kollaboration
 
 + Sehr wichtig, da Projekte heute immer öfter global sind
 
@@ -164,7 +164,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 	+ Team-Portale
 	
 ---
-# Kapitel 12 - Werkzeuge für Teamarbeit und Kollaboration
+# Werkzeuge für Teamarbeit und Kollaboration
 
 ### Kommunikationssysteme:
 
@@ -175,7 +175,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 + Achten auf Ausfallsicherheit und Kompatibilität
 	
 ---
-# Kapitel 12 - Werkzeuge für Teamarbeit und Kollaboration
+# Werkzeuge für Teamarbeit und Kollaboration
 
 ### Work Item Tracking Systeme
 
@@ -196,7 +196,7 @@ CASE-Tools werden in diese Gruppen eingeteilt:
 + Beispiele: Mantis, Bugzilla und Trac
 
 ---
-# Kapitel 12 - Werkzeuge für Teamarbeit und Kollaboration
+# Werkzeuge für Teamarbeit und Kollaboration
 
 ### Team-Portale
 

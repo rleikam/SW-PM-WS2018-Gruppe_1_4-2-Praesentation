@@ -2,11 +2,11 @@
 
 --
 
-### KVP(Kontinuierlicher Verbesserungs Prozess)
+### KVP (Kontinuierlicher Verbesserungs Prozess)
 
 --
 
-Kontinuierlicher Verbesserungs Prozess mit PDCA(**P**lan, **D**o, **C**heck, **A**ct).
+Kontinuierlicher Verbesserungs Prozess mit PDCA (**P**lan, **D**o, **C**heck, **A**ct).
 
 --
 
@@ -26,13 +26,15 @@ und bei erfolgreicher Evaluierung geht es in den Nächsten Schritt.
 
 * **Act**: der verbesserte Prozess wird eingeführt und überwacht.
 
---
+
 ???
 In einigen fällen müssen auch in diesem Schritt Schulungen oder ähnliches für die Mitarbeiter gehalten werden. 
 Nach dem Abschluss einen **Zyklus** kann ein neuer Angefangen werden. Je nach Firma können mehrere **Zyklen** parallel ausgeführt werden.
 ---
 
-# Reifegradmodelle und Prozessverbesserung - CMMI
+# Reifegradmodelle und Prozessverbesserung
+
+### CMMI
 
 --
 
@@ -50,7 +52,7 @@ Das **CMMI **(Capability Maturity Model Integration) zielt darauf ab Schwächen 
 
 --
 
-* **Vorkehrungen zur Systemintegration
+* **Vorkehrungen zur Systemintegration**
 
 --
 
@@ -66,7 +68,9 @@ Das **CMMI **(Capability Maturity Model Integration) zielt darauf ab Schwächen 
 untersucht werden auf Schwächen und auch Verbesserungsmöglichkeiten. **CMMI** gruppierte Aspekte zu Prozessgebieten die eine Sammlung ähnlicher Prozesse aus einem Thema oder Bereich sind.
 ---
 
-# Reifegradmodelle und Prozessverbesserung - CMMI-Fähigkeitsgrad
+# Reifegradmodelle und Prozessverbesserung
+
+### CMMI-Fähigkeitsgrad
 
 --
 
@@ -90,7 +94,9 @@ untersucht werden auf Schwächen und auch Verbesserungsmöglichkeiten. **CMMI** 
 
 ---
 
-# Reifegradmodelle und Prozessverbesserung - CMMI-Reifegrad
+# Reifegradmodelle und Prozessverbesserung
+
+### CMMI-Reifegrad
 
 --
 Mithilfe von 5 **Reifengraden** wird ein Unternehmen bewertet:
@@ -121,11 +127,13 @@ Um die Reife des Unternehmens zu Prüfen gibt es **SCAMPI** (*Standard CMMI Appr
 ---
 
 
-# Reifegradmodelle und Prozessverbesserung - Spice
+# Reifegradmodelle und Prozessverbesserung
+
+### Spice
 
 --
 
-**Spice**(*Software Process Improvement and Capability Determination*) unterteilt wie **CMMI** in **Reifegrade** doch Spice hat 6 Stufen:
+**Spice** (*Software Process Improvement and Capability Determination*) unterteilt wie **CMMI** in **Reifegrade** doch Spice hat 6 Stufen:
 
 --
 
@@ -139,7 +147,11 @@ Um die Reife des Unternehmens zu Prüfen gibt es **SCAMPI** (*Standard CMMI Appr
 
 * **Stufe 2** (*managed*) wird erreicht wenn die Prozesse geplant und kontrolliert werden und Techniken wie Qualitätssicherung umgesetzt werden. 
 
---
+---
+
+# Reifegradmodelle und Prozessverbesserung
+
+### Spice
 
 * **Stufe 3** (*established*) wird zugewiesen wenn das Unternehmen ein Standardvorgehensmodell hat und dieses auch angepasst auf einzelne Projekte nutzt.
 
@@ -153,7 +165,3 @@ Um die Reife des Unternehmens zu Prüfen gibt es **SCAMPI** (*Standard CMMI Appr
 
 ???
 **Spice** hat ebenfalls mithilfe von **SCAMPI** geprüft werden.
-
---
-
----

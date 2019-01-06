@@ -49,3 +49,24 @@
 
 ???
 **Felder** - beschreiben die Merkmale eines Issue Typs (Daten)
+---
+# Jira - Workflows
+
+--
+* beschreiben Zustände und Transitionen von Issues
+
+???
+**Workflows** - Issues bekommen einen Lebenszyklus zugeschrieben mit Zuständen, zwischen denen durch Transitionen gesprungen wird
+--
+* Issues dürfen nur in einem Zustand verbleiben
+
+--
+* Jira gibt standardmäßige Workflows vor
+
+???
+**Standardmäßiger Workflow** - nicht umänderbar, aber kopierbar
+--
+* Workflow Zuweisung zu einem Issue Typ erfolgt durch ein Workflow Schemata
+
+???
+**Workflow Schemata** - Workflows dürfen auf mehrere Issues verweisen

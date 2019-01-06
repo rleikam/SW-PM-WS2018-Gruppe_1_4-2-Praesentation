@@ -18,12 +18,10 @@
 # Steuerung - Projektfortschrittsentscheidung
 
 + Leitungsausschuss bewertet Projektstatus and Entscheidungspunkten
-
 * Freigabe
 * Freigabe mit Auflagen
 * Keine Frigabe
 * Abbruch
-
 * Vorteil: Projektleiter erhält Unterstützung
 
 ---

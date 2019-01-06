@@ -70,3 +70,32 @@
 
 ???
 **Workflow Schemata** - Workflows dürfen auf mehrere Issues verweisen
+---
+# Jira - Boards
+
+--
+* Darstellung und Verwaltung der Issues
+
+???
+**Darstellung** - Darstellung von Issues über ein oder mehrere Projekte
+--
+* Unterschiedliche Boards
+
+--
+	* Scrum Board
+	
+???
+**Backlog** - Verwaltung sämtlicher Issues
+**Sprint Backlog** - Vorbereitung der Issues für einen Scrum Sprint
+**Aktive Sprints** - Darstellung als Board mit Spalten
+--
+	* Kanban Board
+	
+???
+**Backlog-Spalte** - Spalte mit allen Issues in der ersten Spalte ganz links
+**Optionales Backlog** - Auslagerung der Issues in ein anderes Backlog
+--
+	* Next-Gen-Board
+	
+???
+**Next-Gen-Board** - basieren auf Scrum und Kanban Boards, einfacher und flexibler

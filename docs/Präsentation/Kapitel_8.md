@@ -4,7 +4,9 @@
 
 ---
 
-# Projektdurchführung - Kontrolle und Steuerung
+# Projektdurchführung
+
+### Kontrolle und Steuerung
 
 + Aufrechterhaltung von Projektfortschritt und Rahmenbedingungen
 
@@ -17,7 +19,9 @@
 
 ---
 
-# Steuerung - Projektfortschrittsentscheidung
+# Steuerung
+
+### Projektfortschrittsentscheidung
 
 + Leitungsausschuss bewertet Projektstatus and Entscheidungspunkten
 
@@ -33,15 +37,17 @@
 
 ---
 
-# Steuerung - Fortschrittskontrolle
+# Steuerung
 
-### Soll- Ist- Bewertung von Kennzahlen
+### Fortschrittskontrolle
 
-<img style="width:60%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
-
+<div style="text-align: center">
+	<img style="width:60%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
+</div>
 ---
 
-# Kontrolle 
+# Kontrolle
+
 ### Aufwandserfassung
 
 + Ressourcenplanung
@@ -52,7 +58,9 @@
 
 ---
 
-# Kontrolle - Artefakt-Fortschrittsgrad
+# Kontrolle
+
+### Artefakt-Fortschrittsgrad
 
 + Modellierung und Auswertung über Zustandsautomaten
 
@@ -69,7 +77,9 @@
 
 ---
 
-# Planung - Changemanagement
+# Planung
+
+### Changemanagement
 
 + Antwort auf variable Rahmenbedingungen
 

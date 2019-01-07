@@ -4,23 +4,28 @@
 
 * **Organisation Project Board** kann bis zu 5 verschiedenen **Respositories** beinhalten.
 
+
 --
 
-- ein "Respositorie" kann mehrere "Project Boards" beinhalten
+* ein "Respository" kann mehrere "Project Boards" beinhalten
 
 --
 
 * Templates :
+
 	* Basic Kanban
-	
+
+
 --
 	* Automated Kanban
-	
---
-	* Automated Kanban with Reviews
-	
 
+
+--
+	* Automated Kanban with Reviews	
+
+--
 	* Bug Triage
+
 
 --
 

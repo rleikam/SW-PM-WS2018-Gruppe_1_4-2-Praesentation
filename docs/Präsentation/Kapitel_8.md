@@ -46,6 +46,7 @@ name: Projektdurchfuehrung
 <div style="text-align: center">
 	<img style="width:60%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
 </div>
+<div style="font-size: 0.4em; text-align: center">Meilensteintrendanalyse [4]</div>
 ---
 
 # Kontrolle

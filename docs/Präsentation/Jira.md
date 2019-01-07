@@ -157,3 +157,4 @@ name: Jira
 <div style="text-align: center">
 	<img style="width: 60%" src="https://confluence.atlassian.com/jirasoftwarecloud/files/777002653/867194399/1/1484024907542/burndown-chart.png">
 </div>
+<div style="font-size: 0.4em; text-align: center">Burnup-Diagramm [7]</div>

@@ -204,3 +204,4 @@ name: Metriken
 ### Erfassung und Auswertung
 
 <img style="width: 100%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_10_Goal-Question-Metric.png">
+<div style="font-size: 0.4em; text-align: center">Goal-Question-Metric [6]</div>

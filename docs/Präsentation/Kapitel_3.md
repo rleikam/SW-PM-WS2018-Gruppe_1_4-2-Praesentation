@@ -48,6 +48,7 @@ name: Lebenszyklen
 
 --
 <img style="width:100%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png">
+<div style="font-size: 0.4em; text-align: center">Projektlebenszyklus mit seinen Artefakten [2]</div>
 
 ---
 # Projektlebenszyklus
@@ -223,6 +224,7 @@ lösen von Problemen und Konflikten
 <div style="text-align: center">
 	<img style="width:70%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_3_V-Modell.png">
 </div>
+<div style="font-size: 0.4em; text-align: center">V-Modell [3]</div>
 
 ???
 **V-Modell** - Gegenüberstellung von Phasen  

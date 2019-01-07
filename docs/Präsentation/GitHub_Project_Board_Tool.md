@@ -1,3 +1,5 @@
+name: GitHub
+
 # GitHub Project Board Tool
 
 --

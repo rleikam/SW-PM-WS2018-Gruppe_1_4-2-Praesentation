@@ -25,7 +25,7 @@ name: Projektdurchfuehrung
 
 ### Projektfortschrittsentscheidung
 
-+ Leitungsausschuss bewertet Projektstatus and Entscheidungspunkten
++ Leitungsausschuss bewertet Projektstatus an Entscheidungspunkten
 
   + Freigabe
   

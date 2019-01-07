@@ -1,4 +1,6 @@
-# Vorgehensmodelle - Spiralmodell
+# Vorgehensmodelle
+
+### Spiralmodell
 
 1. **Analyse** : In diesem Schritt werden die Vorrausetzungen, Anforderungen, Ziele und Vorstellungen an das Projekt festgehalten.
 
@@ -16,7 +18,9 @@
 
 ---
 
-# Vorgehensmodelle - Prototyping-Spiralmodell
+# Vorgehensmodelle
+
+### Prototyping-Spiralmodell
 
 ???
 **Prototypen** werden häufiger auch in Spiralform genutzt das heißt das im laufe der Entwicklung viele **Prototypen** entstehen. **Prototypen** können dazu benutzt werden bestimmte Funktionen zu testen und diese dann auf- oder auszubauen (evolutionäres **Prototyping**). Ebenfalls kann **Protoyping** benutzt werden um neue Optionen zu testen und zu vergleichen ob sie sich lohnen oder überhaupt realisierbar sind (experimentelles **Prototyping**).
@@ -36,6 +40,11 @@
 
 * **Pilotsysteme**: Kann bereits vom Nutzern getestet und bewertet werden und geht somit in Richtung Ziel.
 
+---
+# Vorgehensmodelle
+
+### Prototyping-Spiralmodell
+
 --
 
 **Prototyp** Muster:
@@ -50,29 +59,35 @@
 
 ---
 
-# Vorgehensmodelle - Agile Methoden
+# Vorgehensmodelle
+
+### Agile Methoden
 
 --
-### Agilen Manifest
---
+* Agilen Manifest
 
-* Individuals and interactions over processes and tools
 
 --
+	* Individuals and interactions over processes and tools
 
-* Working software over comprehensive documentation
-
---
-
-* Customer collaboration over contract negotiation
 
 --
+	* Working software over comprehensive documentation
 
-* Responding to change over following a plan
+
+--
+	* Customer collaboration over contract negotiation
+
+
+--
+	* Responding to change over following a plan
+
 
 ---
 
-# Vorgehensmodelle - Agile Methoden
+# Vorgehensmodelle
+
+### Agile Methoden
 
 
 * **Refactoring:** Anpassung des Codes um unnötige Teile zu entfernen oder um Übersichtlichkeit zu Verbessern.
@@ -95,7 +110,9 @@
 
 ---
 
-# Vorgehensmodelle - Scrum
+# Vorgehensmodelle
+
+### Scrum
 
 * Im Backlog befinden sich alle Anforderungen
 
@@ -118,7 +135,9 @@
 
 ---
 
-# Vorgehensmodelle - RUP (Rational Unified Process)
+# Vorgehensmodelle
+
+### RUP (Rational Unified Process)
 
 --
 
@@ -141,77 +160,94 @@
 
 ---
 
-# Vorgehensmodelle - RUP-Diziplinen
+# Vorgehensmodelle
+
+### RUP-Diziplinen
 
 Die **Phasen** sind in folgende  **Disziplinen** unterteilt:
 
 * Business Modeling
 
---
 
+--
 * Requirements
 
---
 
+--
 * Analysis & Design
 
---
 
+--
 * Implementation
 
---
 
+--
 * Test
 
---
 
+---
+# Vorgehensmodelle
+
+### RUP-Diziplinen
+
+--
 * Deployment
 
---
 
+--
 * Configuration & Change Management
 
---
 
+--
 * Project Management
 
---
 
+--
 * Environment
+
 
 ---
 
-# Vorgehensmodelle - V-Modell XT
+# Vorgehensmodelle
+
+### V-Modell XT
 
 Man unterteilt das V-Modell XT in vier mögliche Projekttypen:
 
 * **Systementwicklungprojekt (Auftragsgeber[AG])**
 
+
 --
 * **Systementwicklungprojekt (Auftragsnehmer[AN])**
+
 
 --
 * **Systementwicklungprojekt (Eigenentwicklung[AG/AN])**
 
+
 --
 * Einführung und Pflege eines organisationsspezifischen Vorgehensmodells (ORG)
 
---
+
+---
+# Vorgehensmodelle
 
 ### V-Modell XT-Rollen
 
-Die Rollen:
-
 * **Projektleiter** verantwortlich für Projekthandbuch,Projektplan und Risikoliste und wirkt mit an den Anforderungen
+
 
 --
 * **Anforderungsanalytiker (AG)** verantwortlich für die Anforderungen
 
+
 --
 * **QS-Verantwortlicher** wirkt mit am Projektplan
 
+
 --
 * **Projektmanager** wirkt mit am Projekthandbuch
+
 
 ---
 
@@ -239,27 +275,21 @@ Die Rollen:
 
 
 ---
-
-
 # Prozessmanagement
-
---
 
 ???
 Die **Vorgehensmodelle** haben wie Software ein **Lebenszyklus** und dieser lässt sich in folgende Schritte unterteilen.
-
+--
 1. **Analyse** : Anforderungen an den Gesamtprozess festlegen.
+
 
 --
 2. **Konzeption**: Bedingungen mit den Anwendern einigen.
 
+
 --
 3. **Realisierung**: Das Model aus 2. technisch umsetzen. 
 
+
 --
 4. **Einführung**: Das Modell/der Vorgang wird eingeführt.
-
---
-
-
----

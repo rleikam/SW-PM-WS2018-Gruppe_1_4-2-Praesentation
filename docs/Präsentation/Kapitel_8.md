@@ -106,6 +106,9 @@ name: Projektdurchfuehrung
   +  Wie sieht die Termintreue von Artefakten aus
   
   +  Gibt es abweichende Entwicklungen und worin liegen die Ursachen
+  
+???
++ Quotient aus verbuchtem Aufwand für das Artefakt und dem geplantem Aufwand gebildet.
 
 
 ---
@@ -121,6 +124,13 @@ name: Projektdurchfuehrung
 + Änderungen innerhalb des Projekts.
 
 + Auswirkungen von Änderungen auf Mitarbeiter und des Systems
+
+???
++ (innerhalb) Fehler im Entwurf sein oder Qualitätsmängel oder Optimierungsbedarf an Performance und Skalierbarkeit
+
++ Änderungen beeinflussen auch den Aufwand einzelner Mitarbeiter 
+
++ Erfassung der Änderungen, mit Risikobewertung und Aufwandschätzung
 
 ---
 
@@ -149,6 +159,23 @@ name: Projektdurchfuehrung
 + Integration und Test
 
 + Transition in die Einsatzumgebung und Abgabe
+
+???
++ (1) sorgt für die Einrichtung einer guten Kommunikationsumgebung mit dem Kunden, sowie erforderliche Weiterbildungen der Mitarbeiter und Einbindung von externen Fachkräften
+
++ (1) Die Anforderungen genau zu spezifizieren ist Aufgabe des Managements 
+
++ (2) Auswahl einer geeigneten Architektur. Team Aufteilunng Schnittstellen,Fehleranfälligkeit
++ (2) Kommunikationswege zwischen den Teams
+
++ (3) Die Rahmenbedingungen aufrechterhalten für die MItarbeiter
++ (3) Achten auf Codequalität und Dokumentation und Tests
+
++ (4) integrieren von Modulen in Teilsysteme und Testen
++ (4) stufenweises integrieren von teilsystemen in größere mit tests
+
++ (5)  Die Termine müssen koordiniert werden, die Abnahmeprozeduren müssen festgelegt werden
++ (5)  Einsatzumgebung beim kunden oder selber stufenweisie simullieren
 
 ---
 

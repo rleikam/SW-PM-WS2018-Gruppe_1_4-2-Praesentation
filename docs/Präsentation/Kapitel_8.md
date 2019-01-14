@@ -4,6 +4,7 @@ name: Projektdurchfuehrung
 
 - <img style="width:100%" src=" https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/projektregelkreis.png">
 
+
 ---
 
 # Projektdurchführung
@@ -18,6 +19,9 @@ name: Projektdurchfuehrung
 + Motivierende Arbeitsatmosphäre, Kommunikation, Balance
 
 + Teamgefühl, Rituale, Transparenz
+
+???
+Das Management hat die Verantwortung, den Projektfortschritt und den Rahmen aufrecht zu erhalten und bei Entwicklungen und Trends die Kontrolle und Steuerung zu behalten. Dazu ist es notwendig Kontrollmechanismen zu integrieren, wie regelmäßige Projektfortschrittsberichte, Besprechungen und Qualitätskontrollmaßnahmen. Die Balance zwischen produktiver Arbeit und Berichtswesen muss gut tariert werden.
 
 ---
 

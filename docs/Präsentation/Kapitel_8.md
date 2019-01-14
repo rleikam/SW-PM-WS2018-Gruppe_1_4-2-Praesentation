@@ -162,18 +162,13 @@ name: Projektdurchfuehrung
 
 ???
 + (1) sorgt für die Einrichtung einer guten Kommunikationsumgebung mit dem Kunden, sowie erforderliche Weiterbildungen der Mitarbeiter und Einbindung von externen Fachkräften
-
 + (1) Die Anforderungen genau zu spezifizieren ist Aufgabe des Managements 
-
 + (2) Auswahl einer geeigneten Architektur. Team Aufteilunng Schnittstellen,Fehleranfälligkeit
 + (2) Kommunikationswege zwischen den Teams
-
 + (3) Die Rahmenbedingungen aufrechterhalten für die MItarbeiter
 + (3) Achten auf Codequalität und Dokumentation und Tests
-
 + (4) integrieren von Modulen in Teilsysteme und Testen
 + (4) stufenweises integrieren von teilsystemen in größere mit tests
-
 + (5)  Die Termine müssen koordiniert werden, die Abnahmeprozeduren müssen festgelegt werden
 + (5)  Einsatzumgebung beim kunden oder selber stufenweisie simullieren
 

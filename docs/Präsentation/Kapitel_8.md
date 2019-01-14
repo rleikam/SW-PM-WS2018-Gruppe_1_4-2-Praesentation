@@ -55,6 +55,12 @@ name: Projektdurchfuehrung
 	<img style="width:60%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
 </div>
 <div style="font-size: 0.4em; text-align: center">Meilensteintrendanalyse [4]</div>
+
+???
++ Planungsabweichungen und Gründe dafür herauszuarbeiten und entsprechende Konsequenzen zu treffen.
+
++ Erfasst werden Termintreue und Ressourceneinsatz. inwieweit das Projekt im zeitlichen Rahmen liegt oder nicht.
+
 ---
 
 # Kontrolle
@@ -66,6 +72,22 @@ name: Projektdurchfuehrung
 + zeitlicher Aufwand und Kosten der Mitarbeiter
 
 + Aufwandskalkulation von Arbeitspaketen
+
+???
++ Diese Daten werden den geplanten Kosten graphisch gegenübergestellt
+
++ Das Management bestimmt wie jeder Projektbeteiligte seinen Aufwand kontiert und erfasst
+
++ Fehleinschätzung des Aufwands durchs Management
+    + gering qualifizierte Mitarbeiter
+    +unpräzise Aufgabenbeschreibung
+    + unzureichende Motivation der Mitarbeiter
+    + Fehler in der Kontierung
+
++ Ursachen für ein zu niedrigen Aufwand sind
+
+   + Überschätzter Zeitaufwand
+   + Mitarbeiter haben noch nicht mit der Arbeit begonnen oder sind nicht verfügbar
 
 ---
 
